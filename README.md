@@ -6,30 +6,50 @@ This project performs sentiment analysis on text data using Natural Language Pro
 
 🚀 Features
 
-•	• Text preprocessing (tokenization, stopword removal, lemmatization)
+•	•Text preprocessing (tokenization, stopword removal, lemmatization)
+
 •	• Sentiment detection using VADER and RoBERTa
+
 •	• Visualization of sentiment trends
+
 •	• Analyze text input or uploaded datasets
+
 •	• Optional web interface using Gradio or Flask
+
 🧠 Technologies Used
+
 •	• Python
+
 •	• NLTK – Natural Language Toolkit for text processing
+
 •	• Transformers (Hugging Face) – For RoBERTa model
+
 •	• pandas & NumPy – For data handling
+
 •	• matplotlib – For visualization
+
 •	• Gradio/Flask – For user interface
 
 
 🧩 Project Structure
 
+
 📂 sentiment-analysis
+
  ┣ 📜 sentiment_analysis.py
+ 
  ┣ 📜 requirements.txt
+ 
  ┣ 📜 README.md
+ 
  ┣ 📂 models/
+ 
  ┣ 📂 data/
+ 
  ┣ 📂 notebooks/
+ 
  ┗ 📂 results/
+
 
 ⚙️ Installation & Setup
 1. Clone this repository:
@@ -54,7 +74,11 @@ The model achieves high accuracy in classifying text sentiment and provides visu
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to improve.
 📝 License
 This project is licensed under the MIT License.
+
 👨💻 Author
 Ghulam Mohiuddin
+
+
 📧 ghulammohiuddin0088@gmail.com
+
 🌐 https://github.com/ghulammohiuddin007
