@@ -1,7 +1,11 @@
 💬 Sentiment Analysis using Python
+
 📖 Overview
+
 This project performs sentiment analysis on text data using Natural Language Processing (NLP) techniques. It determines whether a given text expresses a positive, negative, or neutral sentiment. The project combines machine learning and deep learning models like VADER and RoBERTa to analyze emotions in user reviews, tweets, or any textual content.
+
 🚀 Features
+
 •	• Text preprocessing (tokenization, stopword removal, lemmatization)
 •	• Sentiment detection using VADER and RoBERTa
 •	• Visualization of sentiment trends
@@ -14,6 +18,8 @@ This project performs sentiment analysis on text data using Natural Language Pro
 •	• pandas & NumPy – For data handling
 •	• matplotlib – For visualization
 •	• Gradio/Flask – For user interface
+
+
 🧩 Project Structure
 
 📂 sentiment-analysis
